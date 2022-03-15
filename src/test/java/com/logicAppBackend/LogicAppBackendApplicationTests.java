@@ -1,4 +1,4 @@
-package com.logicAppBackend.logicAppBackend;
+package com.logicAppBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
